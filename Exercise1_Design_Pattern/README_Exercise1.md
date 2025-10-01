@@ -4,7 +4,7 @@ This repository contains comprehensive implementations of various design pattern
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Exercise1_Design_Pattern/
@@ -21,7 +21,7 @@ Exercise1_Design_Pattern/
 
 ---
 
-## 🎭 Behavioural Design Patterns
+## Behavioural Design Patterns
 
 Behavioural patterns focus on communication between objects, defining how they interact and distribute responsibilities.
 
@@ -79,7 +79,7 @@ The Iterator pattern provides a way to access elements of a collection sequentia
 
 ---
 
-## 🏗️ Creational Design Patterns
+## Creational Design Patterns
 
 Creational patterns deal with object creation mechanisms, providing flexibility in what gets created, who creates it, and how.
 
@@ -140,7 +140,7 @@ The Singleton pattern ensures a class has only one instance and provides a globa
 
 ---
 
-## 🏛️ Structural Design Patterns
+## Structural Design Patterns
 
 Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
@@ -206,7 +206,7 @@ The Adapter pattern allows objects with incompatible interfaces to work together
 
 ---
 
-## 🚀 Compilation and Execution
+## Compilation and Execution
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or higher
