@@ -52,7 +52,7 @@ Devansh_Kyada_EI_Coding_Assignment/
 
 ---
 
-## ▶️ How to Compile and Run
+## How to Compile and Run
 
 1. **Navigate** to the project root directory:
 
