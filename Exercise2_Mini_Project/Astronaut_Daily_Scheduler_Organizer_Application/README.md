@@ -38,6 +38,7 @@ The application ensures that tasks do not overlap, while also providing clean, m
 
 ## Project Structure
 
+```
 Devansh_Kyada_EI_Coding_Assignment/
 └── Exercise2_Mini_Project/
     └── Astronaut_Daily_Scheduler_Organizer_Application/
@@ -47,7 +48,7 @@ Devansh_Kyada_EI_Coding_Assignment/
         ├── Task.java
         ├── ConflictNotifier.java
         └── Observer.java
-
+```
 
 ---
 
